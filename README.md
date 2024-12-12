@@ -1,5 +1,6 @@
 # FitnesAplikacija_Java
-Projekt za kolegij "Osnove objektno orijentiranog programiranja"
+Projekt za kolegij "Osnove objektno orijentiranog programiranja".
+Aplikacije se izrađivala u programskom jeziku Java. 
 
 Bit projektne dokumentacije ovog projekta se u suštini odnosila na razumijevanje i pravilnu izradu UML dijagrama. 
 
